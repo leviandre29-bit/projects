@@ -1,2 +1,2 @@
 x = int(input('num text: '))
-print(x + 10)
+print(x + 15)
